@@ -1,6 +1,5 @@
 // Customer.js
 import Cart from './Cart.js';
-import Product from './Product.js';
 
 class Customer {
   constructor(customerName, address) {
